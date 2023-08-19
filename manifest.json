@@ -1,0 +1,10 @@
+{
+    "name": "TabsKeeper",
+    "version": "0.1",
+    "manifest_version": 3,
+    "description": "Save your onglets by window",
+    "action": {
+        "default_icon": {"48" : "icon.png"},
+        "default_popup": "index.html"
+    }
+}
