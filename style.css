@@ -1,0 +1,21 @@
+*, *::before, *::after{
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    width: 400px;
+    background: blue;
+}
+
+h1{
+    font-size: 2em;
+}
